@@ -1,5 +1,5 @@
 script:
-
+  make test
 
 install:
-  
+  make dep
